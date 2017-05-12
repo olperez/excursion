@@ -1,1 +1,1 @@
-# excursion.github.io
+# excursion
